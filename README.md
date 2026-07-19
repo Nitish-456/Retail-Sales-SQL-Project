@@ -235,4 +235,14 @@ Aspiring **Data Analyst** with a strong interest in SQL, Power BI, Excel, and Py
 
 ---
 
+## Acknowledgements
+
+This project was inspired by the SQL project tutorial from the **Zero Analyst** YouTube channel.
+
+YouTube Channel: https://www.youtube.com/@zero_analyst
+
+I used the tutorial as a learning resource while practicing SQL concepts and building this project independently.
+
 ⭐ If you found this project helpful, consider giving it a star on GitHub!
+
+
